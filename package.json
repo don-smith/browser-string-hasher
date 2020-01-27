@@ -1,6 +1,15 @@
 {
-  "name": "simple-hash-browser",
-  "version": "1.0.0",
+  "name": "browser-string-hasher",
+  "version": "1.1.0",
+  "description": "A barebones function for getting a SHA256 hash of a string using the browser's native crypto module.",
   "main": "index.js",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/don-smith/browser-string-hasher.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/don-smith/browser-string-hasher/issues"
+  },
+  "homepage": "https://github.com/don-smith/browser-string-hasher#readme"
 }
